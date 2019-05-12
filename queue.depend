@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553993778 source:d:\documents\tugas kuliah\semester 2\std\tp\modul7\queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1553993572 d:\documents\tugas kuliah\semester 2\std\tp\modul7\queue\queue.h
+
+1553993705 source:d:\documents\tugas kuliah\semester 2\std\tp\modul7\queue\queue.cpp
+	"queue.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554016769 source:b:\catatan\tpstd7\stack\headernya.cpp
+	"headernya.h"
+	<iostream>
+
+1554016769 b:\catatan\tpstd7\stack\headernya.h
+
+1554016769 source:b:\catatan\tpstd7\stack\main.cpp
+	<iostream>
+	"headernya.h"
+	<cstring>
+
